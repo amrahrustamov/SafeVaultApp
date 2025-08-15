@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "SafeVaultApp.Controllers.AdminController",
+    "Method": "GetSecretData",
+    "RelativePath": "api/Admin/get-secret-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SafeVaultApp.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "SafeVaultApp.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

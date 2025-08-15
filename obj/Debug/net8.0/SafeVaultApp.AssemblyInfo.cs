@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SafeVaultApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6967fb56251e0a26fd35d28d41623418cbf2620")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15441acaccb1a8fbad74252fb4d84ceac60e3002")]
 [assembly: System.Reflection.AssemblyProductAttribute("SafeVaultApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SafeVaultApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

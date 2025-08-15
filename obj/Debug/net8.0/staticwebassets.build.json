@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bYozR1G22kExj/rjyCKzcaab1apyd1EjVkShBPVKY4w=",
+  "Source": "SafeVaultApp",
+  "BasePath": "_content/SafeVaultApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

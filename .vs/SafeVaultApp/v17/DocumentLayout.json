@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|c:\\users\\amrah\\desktop\\notes\\authentication_and_authorization\\finalproject\\safevaultapp\\dbmodels\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|solutionrelative:dbmodels\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|c:\\users\\amrah\\desktop\\notes\\authentication_and_authorization\\finalproject\\safevaultapp\\safevaultapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|solutionrelative:safevaultapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|c:\\users\\amrah\\desktop\\notes\\authentication_and_authorization\\finalproject\\safevaultapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|c:\\users\\amrah\\desktop\\notes\\authentication_and_authorization\\finalproject\\safevaultapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|c:\\users\\amrah\\desktop\\notes\\authentication_and_authorization\\finalproject\\safevaultapp\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|solutionrelative:services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|c:\\users\\amrah\\desktop\\notes\\authentication_and_authorization\\finalproject\\safevaultapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|c:\\users\\amrah\\desktop\\notes\\authentication_and_authorization\\finalproject\\safevaultapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|c:\\users\\amrah\\desktop\\notes\\authentication_and_authorization\\finalproject\\safevaultapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|c:\\users\\amrah\\desktop\\notes\\authentication_and_authorization\\finalproject\\safevaultapp\\dbmodels\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|solutionrelative:dbmodels\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 642,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T10:24:08.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\DbModels\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DbModels\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\DbModels\\AppDbContext.cs",
+              "RelativeToolTip": "DbModels\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:16:52.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\DbModels\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "DbModels\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\DbModels\\Models\\Response.cs",
+              "RelativeToolTip": "DbModels\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:35:26.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Services\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "Services\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Services\\UserServiceTests.cs",
+              "RelativeToolTip": "Services\\UserServiceTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:26:46.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SafeVaultApp.http",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\SafeVaultApp.http",
+              "RelativeDocumentMoniker": "SafeVaultApp.http",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\SafeVaultApp.http",
+              "RelativeToolTip": "SafeVaultApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-15T08:52:04.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:20:50.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:47:12.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:50:34.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T08:37:40.407Z",
               "EditorCaption": ""

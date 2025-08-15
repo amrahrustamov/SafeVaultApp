@@ -1,6 +1,23 @@
-@SafeVaultApp_HostAddress = http://localhost:5122
+@SafeVaultApp_HostAddress = https://localhost:7263
 
-GET {{SafeVaultApp_HostAddress}}/weatherforecast/
+POST {{SafeVaultApp_HostAddress}}/api/auth/login
 Accept: application/json
+Content-Type: application/json
+
+{
+  "Username": "admin",
+  "Password": "password",
+  "Role": "Admin"
+}
+
+
+
+###
+
+GET {{SafeVaultApp_HostAddress}}/api/admin/get-secret-data
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBZG1pbiIsImV4cCI6MTc1NTI1NzM0OCwiaXNzIjoibXktaXNzdWVyIiwiYXVkIjoibXktYXVkaWVuY2UifQ.SZPF0TeK8m2szXD9qsfY90W3biMql1L_vY1SWDoxZjY
+
 
 ###
