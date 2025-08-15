@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|c:\\users\\amrah\\desktop\\notes\\authentication_and_authorization\\finalproject\\safevaultapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349625CD-EB08-4AE1-A6FF-7B755F90179F}|SafeVaultApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 642,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\Notes\\Authentication_and_Authorization\\FinalProject\\SafeVaultApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:37:40.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
